@@ -1,5 +1,7 @@
+/coverage.xml
 *.egg-info
 *.pyc
+/.coverage
 /.env
 /.mypy_cache
 /.tox
